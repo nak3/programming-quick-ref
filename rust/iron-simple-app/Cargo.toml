@@ -1,0 +1,12 @@
+[package]
+name = "iron-app"
+version = "0.1.0"
+authors = ["Kenjiro Nakayama <nakayamakenjiro@gmail.com>"]
+
+[dependencies]
+iron = "*"
+router = "*"
+mount = "*"
+staticfile = "*"
+tera = "*"
+lazy_static = "*"
